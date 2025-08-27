@@ -1,0 +1,47 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.0.1",
+    "@react-google-maps/api": "^2.20.6",
+    "@react-icons/all-files": "^4.1.0",
+    "@tanstack/react-query": "^5.74.4",
+    "@types/js-cookie": "^3.0.6",
+    "axios": "^1.8.4",
+    "framer-motion": "^12.7.4",
+    "install": "^0.13.0",
+    "jquery": "^3.7.1",
+    "js-cookie": "^3.0.5",
+    "leaflet": "^1.9.4",
+    "next": "15.3.0",
+    "npm": "^11.3.0",
+    "owl.carousel": "^2.3.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.56.1",
+    "react-icons": "^5.5.0",
+    "react-leaflet": "^5.0.0",
+    "react-owl-carousel": "^2.3.3",
+    "swiper": "^11.2.6",
+    "zod": "^3.24.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/leaflet": "^1.9.18",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
